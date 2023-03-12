@@ -7,7 +7,7 @@ Podemos descargar en Software instalador a traves del enlace mostrado abajo en l
 
 # Vista Previa del GUI
 ![PZEM 004T-100A GUI 12_03_2023 15_59_42](https://user-images.githubusercontent.com/106831539/224573508-2d887a11-e3c0-43ef-8f26-c8f5831a5d81.png)
-Link de Descarga: https://mega.nz/file/uUBxyCQa#HZUQ4Pi5p9FOQSlbY4vdXwci1E3NGybYaARUrqmVA7I
+ Link de Descarga: https://mega.nz/file/uUBxyCQa#HZUQ4Pi5p9FOQSlbY4vdXwci1E3NGybYaARUrqmVA7I
 
 # Nota
 Se requiere una interfaz de tipo TTL -USB para conectar directamente a la maquina o Laptop en alguno de sus puertos, tal como se muestra a continuacion:
