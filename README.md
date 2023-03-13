@@ -1,5 +1,5 @@
 # PZEM-004-T-Software-GUI
-Este software de interfaz de usuario nos permite hacer una prueba -rapida y/o test de los modulos medidores de energia y potencia en Wattios PZEM 004T via interfaz TTL usando el protoclo de transmision Modbus RTU. 
+Este software de interfaz de usuario, diseñado en NI LabVIEW : www.ni.com,  nos permite hacer una prueba -rapida y/o test de los modulos medidores de energia y potencia en Wattios PZEM 004T via interfaz TTL usando el protoclo de transmision Modbus RTU. 
 
 Podemos encontrar mas informacion acerca de estos medidores en este enlace : https://www.aliexpress.us/item/2251832720824955.html?spm=a2g0o.store_pc_groupList.8148356.6.200f6800CcWMP4&pdp_npi=2%40dis%21USD%21US%20%2416.70%21US%20%2412.52%21%21%21%21%21%402101e9cf16786540942424107e7fef%2165858793245%21sh&gatewayAdapt=glo2usa&_randl_shipto=US
 
@@ -26,6 +26,8 @@ OBS: Recuerde que para poder establecer la comunicacion, por lo menos los termin
 2.- Le solicitara privilegios de administrador. Luego debe especificar alguna ruta de instalacion (archivos de programa por default) y dar en siguiente hasta Finalizar.
 
 ![PZEM GUI 13_03_2023 11_26_22](https://user-images.githubusercontent.com/106831539/224766047-abd3ea19-2d16-405e-aa0c-a08b5af80d16.png)
+
+Nota: No es necesario que tenga instalado el sistema de desarrollo de NI LabVIEW, ya que esta aplicacion funciona como stand-alone post-instalacion
 
 # Pasos de Ejecuacion.
 1.- Una vez terminado el asistente de instalacion, le mostrara una ruta de fichero similar a : /../PZEM Software GUI/PZEM GUI en donde encontrara la aplicacion PZEM004T.exe , debe darle clic: 
@@ -59,3 +61,6 @@ Entre otras opciones que puede cambiar esta el tiempo en segundos entre lecturas
 Si desea salir de la aplicacion, primero debe cerrar el COM : "CloseCOM". Enseguida puede dar click en el boton "EXIT" o en "cerrar", para esto el COM# no debe de estar abierto ni adquiriendo datos
 
 ![Screenshot 12_03_2023 11_17_53](https://user-images.githubusercontent.com/106831539/224775028-03966dc5-8c5f-4d88-a8cf-8afb82ba6251.png)
+
+# Nota Final
+El leguaje de programacion LabVIEW permite programar, validar de forma rapida e intuitiva mediante iconos graficos y la vez comunicarnos con Hardware propietario de NI o HW abierto. Podemos encontrar mayor informacion de este entorno de desarrollo aqui: https://www.ni.com/es-cr/shop/labview.html
