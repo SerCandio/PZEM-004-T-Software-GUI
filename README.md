@@ -47,6 +47,7 @@ Nota: Se recomienda crear un acceso directo a la aplicacion en el Escritorio (De
 4.- Para iniciar las lecturas, haga Click en el boton "GO". Vera algo similar a lo que se muestra en la imagen: 
 
 ![PZEM 004T-100A GUI 12_03_2023 11_16_47](https://user-images.githubusercontent.com/106831539/224772545-70c3eaf1-d3f3-4be9-9ac6-0718ac3b5234.png)
+
 Entre otras opciones que puede cambiar esta el tiempo en segundos entre lecturas en el menu desplegable "D.S" para asi hacerlas mas rapidas o mas lentas
 
 5.- Si desea finalizar con lac lecturas, haga click primero en el boton "STOP" asi el modulo ya no seguira leyendo y conservara los ultimos valores muestreados.
